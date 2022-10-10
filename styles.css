@@ -1,0 +1,30 @@
+body {
+    background-image: url("cabin.jpg") 
+}
+h1 {
+    color: ghostwhite; text-align: center; font-family: 'Times New Roman', 
+    Times, serif; border-style: groove; margin-left: 500px; margin-right: 500px; font-size: xx-large;
+}
+p {
+    color: ghostwhite; text-align: center; font-family: 'Times New Roman', 
+    Times, serif; margin-left: 3in;margin-right: 3in; padding-top: 32px; font-size: x-large;
+}
+h2 {
+    color: ghostwhite; text-align: center; font-family: 'Times New Roman', 
+    Times, serif;border-bottom-style: solid; padding-bottom: 32px; margin-left: 4in;
+    margin-right: 4in; padding-top: 48px; font-size: xx-large;
+}
+ul {
+    color: ghostwhite; font-family: 'Times New Roman', Times, serif;
+     list-style-position: inside;list-style-type: square; text-align: center;
+     padding-top: 32px;font-size: x-large;
+}
+a {
+    color: ghostwhite;
+}
+img {
+    display:block; margin-left: auto; margin-right: auto;padding-top: 64px;
+}
+a {
+    
+}
